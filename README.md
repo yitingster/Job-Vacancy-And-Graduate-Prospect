@@ -9,7 +9,7 @@ The downloaded datasets can be found in the "Data" folder in the repository.
 </p>  
 
 <p>
-I highly recommend to look at the slides(pdf) in the repository for a detailed walkthrough of the data exploration, preperation and graph plotting process using python; the analysis and interpretation of the graphs are also included in the slides.   
+    I highly recommend to look at the <b>slides(Job-Vacancy-and-Graduates-Prospect-Slides.pdf)</b> in the repository for a detailed walkthrough of the data exploration, preperation and graph plotting process using python; the analysis and interpretation of the graphs are also included in the slides.   
 </p>    
     
 <h1>Topics</h1>
@@ -33,7 +33,7 @@ Below are the skillsets that I have learnt through this assignment:
 
 
 <ul>
-    <li>Data exploration (descriptive statistic, finding missing data values)</li>
+    <li>Data exploration (descriptive statistic, identifying missing data)</li>
     <li>Data preperation for graph plotting</li>
     <li>Graph plotting using seaborn (scatter, bar, line, box-and-whisker)</li>
     <li>SQL to python (From Python platform, connect to SQL and extract data using SQL syntax) </li>

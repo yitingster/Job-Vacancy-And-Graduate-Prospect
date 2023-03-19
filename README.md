@@ -3,7 +3,7 @@
 <h1>Introduction</h1>
 
 <p>
-Hello everyone, this is an assignment that I did for my Specialist Diploma in Data Science course from Singapore Polytechnic.
+Hello everyone, this is an assignment that I did for my Specialist Diploma in Data Science course from Singapore Polytechnic in 2020.
 The assignment requires us to use datasets from <a href="https://data.gov.sg/">data.gov.sg</a> and derive insights from two topic of interests.
 The downloaded datasets can be found in the "Data" folder in the repository.     
 </p>  
